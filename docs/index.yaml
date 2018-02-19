@@ -1,12 +1,21 @@
 apiVersion: v1
 entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-19T14:33:46.691910418-08:00
+    description: A Helm chart for Kubernetes
+    digest: 4f1dda907661acb892d00d0d29088ce6457691754620a97fe3ca705ad9cc17cf
+    name: notificationchart
+    urls:
+    - https://github.com/amblerorg/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
   notifictionchart:
   - apiVersion: v1
-    created: 2018-02-19T14:07:00.246054688-08:00
+    created: 2018-02-19T14:33:46.692187397-08:00
     description: A Helm chart for Kubernetes
     digest: 11566e731cf0c9720c78024308e2a65a05499f7322fd81c6d1169fa43897e62d
     name: notifictionchart
     urls:
     - https://github.com/amblerorg/mycharts/notifictionchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-19T14:07:00.245343386-08:00
+generated: 2018-02-19T14:33:46.691503967-08:00
